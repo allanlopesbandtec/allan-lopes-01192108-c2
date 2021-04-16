@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cachorros</string>
+    <string name="cadastrar_cachorro">Cadastrar Cachorro</string>
+    <string name="titulo_cadastro_cachorro">Cadastro de cachorro</string>
+    <string name="listar_cachorro">Listar Cachorros</string>
+    <string name="string_id">Id do cachorro</string>
+    <string name="raca">Raça do cachorro</string>
+    <string name="preco_medio">Preço médio</string>
+    <string name="indicado_criancas">Indicado para crianças:</string>
+</resources>
